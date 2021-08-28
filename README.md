@@ -30,7 +30,8 @@ Applications:
 - Robots control.
 
 Project Requirements:
-- ESP32 Sketch.
+- ESP32 Board
+- ESP32 Sketch
 - Arduino IDE 
 - Relay Boards
 - DHT22 Sensor 
@@ -41,7 +42,7 @@ Project Requirements:
 - 5V Power Supply
 
 Tested on:
-- ESP32 Dev Module.
+- ESP32 Dev Module
 
 Check our channel on Youtube:
 - tatco.cc
