@@ -1,10 +1,10 @@
-# ESP32-Kit
+# ESP32-ROOM-PROJECT
 This sketch work with both apps on the iOS and Android Store: "ESP32 Kit"
 
-- iOS: https://apps.apple.com/us/app/esp32-kit/id1498601142?ls=1
+- iOS: https://apps.apple.com/us/app/esp32-kit/id1498601142
 - Android: Coming soon
 
-Features:
+App Features:
 - Control the board by Bluetooth or WIFI.
 - Read & write digital pins. 
 - Read & write PWM pins.
@@ -29,9 +29,16 @@ Applications:
 - Remote control.
 - Robots control.
 
-Requirements:
+Project Requirements:
 - ESP32 Sketch.
 - Arduino IDE 
+- Relay Boards
+- DHT22 Sensor 
+- Resistors
+- Leds
+- Push Buttons
+- Switch 
+- 5V Power Supply
 
 Tested on:
 - ESP32 Dev Module.
